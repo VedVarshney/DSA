@@ -7,6 +7,7 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VedVarshney/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/VedVarshney/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/VedVarshney/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -15,8 +16,13 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VedVarshney/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/VedVarshney/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/VedVarshney/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->olutions in java.
 
 <!---LeetCode Topics Start-->
