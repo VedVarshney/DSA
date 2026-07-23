@@ -14,6 +14,7 @@ Leetcode questions solutions in java.
 | [0876-middle-of-the-linked-list](https://github.com/VedVarshney/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,14 +34,17 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/VedVarshney/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/VedVarshney/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/VedVarshney/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 <!---LeetCode Topics End-->olutions in java.
 
 <!---LeetCode Topics Start-->
