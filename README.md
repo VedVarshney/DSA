@@ -6,6 +6,7 @@ Leetcode questions solutions in java.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/VedVarshney/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VedVarshney/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/VedVarshney/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/VedVarshney/DSA/tree/main/0061-rotate-list/) | Medium |
@@ -55,6 +56,7 @@ Leetcode questions solutions in java.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/VedVarshney/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/VedVarshney/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -90,6 +92,7 @@ Leetcode questions solutions in java.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/VedVarshney/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/VedVarshney/DSA/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->olutions in java.
 
