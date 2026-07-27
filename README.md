@@ -84,8 +84,13 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/VedVarshney/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0704-binary-search](https://github.com/VedVarshney/DSA/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VedVarshney/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/VedVarshney/DSA/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->olutions in java.
 
 <!---LeetCode Topics Start-->
