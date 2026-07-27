@@ -29,6 +29,7 @@ Leetcode questions solutions in java.
 | [0142-linked-list-cycle-ii](https://github.com/VedVarshney/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/VedVarshney/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VedVarshney/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Hash Table
@@ -45,6 +46,7 @@ Leetcode questions solutions in java.
 | [0059-spiral-matrix-ii](https://github.com/VedVarshney/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0704-binary-search](https://github.com/VedVarshney/DSA/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VedVarshney/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -102,6 +104,10 @@ Leetcode questions solutions in java.
 | [0002-add-two-numbers](https://github.com/VedVarshney/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/VedVarshney/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/VedVarshney/DSA/tree/main/0367-valid-perfect-square/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->olutions in java.
 
 <!---LeetCode Topics Start-->
