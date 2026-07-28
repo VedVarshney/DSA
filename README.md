@@ -137,6 +137,7 @@ Leetcode questions solutions in java.
 | [0387-first-unique-character-in-a-string](https://github.com/VedVarshney/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0415-add-strings](https://github.com/VedVarshney/DSA/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/VedVarshney/DSA/tree/main/0504-base-7/) | Easy |
+| [0520-detect-capital](https://github.com/VedVarshney/DSA/tree/main/0520-detect-capital/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
