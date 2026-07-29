@@ -37,6 +37,7 @@ Leetcode questions solutions in java.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/VedVarshney/DSA/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/VedVarshney/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/VedVarshney/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/VedVarshney/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -47,6 +48,7 @@ Leetcode questions solutions in java.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/VedVarshney/DSA/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/VedVarshney/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0059-spiral-matrix-ii](https://github.com/VedVarshney/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
