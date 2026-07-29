@@ -4,18 +4,17 @@ class Solution {
         return sb.reverse().toString();
     }
     public int maximumNumberOfStringPairs(String[] arr) {
-    HashSet<String> set=new HashSet();
+    HashSet<String> set = new HashSet<>();
     int c=0;
     for(int i=0; i<arr.length; i++){
     if(set.contains(rev(arr[i]))){
     c++;
-    // if string have duplicate elements
-    set.remove(rev(arr[i]));
-    }
-    else
-    set.add(arr[i]);
-    }  
-    return c;  
+    set.remove(arr[i]);
+    }else{
+        set.add(arr[i]);
+    } 
+    } 
+    return c; 
     }
 }
 
