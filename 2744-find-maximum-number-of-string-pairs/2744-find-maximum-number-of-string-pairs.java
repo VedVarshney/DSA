@@ -9,7 +9,7 @@ class Solution {
     for(int i=0; i<arr.length; i++){
     if(set.contains(rev(arr[i]))){
     c++;
-    set.remove(arr[i]);
+    //set.remove(arr[i]); if string have duplicate strings
     }else{
         set.add(arr[i]);
     } 
