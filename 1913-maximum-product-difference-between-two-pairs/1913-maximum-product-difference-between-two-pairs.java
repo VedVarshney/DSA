@@ -1,10 +1,29 @@
 class Solution {
     public int maxProductDifference(int[] arr) {
-    Arrays.sort(arr);
-    int ans=0;
     int n=arr.length;
-    ans=(arr[n-1]*arr[n-2])-(arr[0]*arr[1]);
-    return  ans;
+    int max1=Integer.MIN_VALUE,max2=Integer.MIN_VALUE,Mix=-1;
+    int min1=Integer.MAX_VALUE,min2=Integer.MAX_VALUE,mix=-1;
+    for(int i=0; i<n; i++){
+        if(arr[i]>max1){
+        max1=arr[i];
+        Mix=i;
+        }
+    }
+    for(int i=0; i<n; i++){
+        if(arr[i]>max2 && i!=Mix)
+        max2=arr[i];
+    }
+    for(int i=0; i<n; i++){
+        if(arr[i]<min1){
+        min1=arr[i];
+        mix=i;
+        }
+    }
+    for(int i=0; i<n; i++){
+        if(arr[i]<min2 && i!=mix)
+        min2=arr[i];
+    }
+    return (max1*max2)-(min1*min2);
     }
 }
 
