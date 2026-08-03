@@ -1,10 +1,10 @@
 class Solution {
-    public int[] twoSum(int[] arr, int target) {
-    boolean flag=false;
+    public int[] twoSum(int[] arr, int x) {
     int[] ans=new int[2];
+    boolean flag=false;
     for(int i=0; i<arr.length; i++){
         for(int j=i+1; j<arr.length; j++){
-            if(arr[i]+arr[j]==target){
+            if(arr[i]+arr[j]==x){
                 ans[0]=i;
                 ans[1]=j;
                 flag=true;
@@ -12,7 +12,7 @@ class Solution {
             }
         }
         if(flag) break;
-    }   
+    }
     return ans;
     }
 }
