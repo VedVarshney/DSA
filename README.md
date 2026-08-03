@@ -44,6 +44,7 @@ Leetcode questions solutions in java.
 | [0160-intersection-of-two-linked-lists](https://github.com/VedVarshney/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/VedVarshney/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VedVarshney/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/VedVarshney/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VedVarshney/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -61,6 +62,7 @@ Leetcode questions solutions in java.
 | [0852-peak-index-in-a-mountain-array](https://github.com/VedVarshney/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/VedVarshney/DSA/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/VedVarshney/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/VedVarshney/DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VedVarshney/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
