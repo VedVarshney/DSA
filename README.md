@@ -64,6 +64,7 @@ Leetcode questions solutions in java.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/VedVarshney/DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VedVarshney/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/VedVarshney/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -145,6 +146,7 @@ Leetcode questions solutions in java.
 | [0628-maximum-product-of-three-numbers](https://github.com/VedVarshney/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/VedVarshney/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +183,10 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/VedVarshney/DSA/tree/main/0877-stone-game/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/VedVarshney/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 <!---LeetCode Topics End-->olutions in java.
 
 <!---LeetCode Topics Start-->
