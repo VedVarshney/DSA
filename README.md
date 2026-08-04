@@ -31,6 +31,7 @@ Leetcode questions solutions in java.
 | [0142-linked-list-cycle-ii](https://github.com/VedVarshney/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/VedVarshney/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VedVarshney/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0344-reverse-string](https://github.com/VedVarshney/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/VedVarshney/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -173,6 +174,7 @@ Leetcode questions solutions in java.
 | ------- | ------- |
 | [0067-add-binary](https://github.com/VedVarshney/DSA/tree/main/0067-add-binary/) | Easy |
 | [0242-valid-anagram](https://github.com/VedVarshney/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/VedVarshney/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VedVarshney/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0415-add-strings](https://github.com/VedVarshney/DSA/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/VedVarshney/DSA/tree/main/0504-base-7/) | Easy |
