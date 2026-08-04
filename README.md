@@ -52,6 +52,7 @@ Leetcode questions solutions in java.
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3731-find-missing-elements](https://github.com/VedVarshney/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ Leetcode questions solutions in java.
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3731-find-missing-elements](https://github.com/VedVarshney/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +163,7 @@ Leetcode questions solutions in java.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VedVarshney/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3731-find-missing-elements](https://github.com/VedVarshney/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
