@@ -63,6 +63,7 @@ Leetcode questions solutions in java.
 | [0035-search-insert-position](https://github.com/VedVarshney/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0059-spiral-matrix-ii](https://github.com/VedVarshney/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0136-single-number](https://github.com/VedVarshney/DSA/tree/main/0136-single-number/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/VedVarshney/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VedVarshney/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/VedVarshney/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/VedVarshney/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -218,7 +219,12 @@ Leetcode questions solutions in java.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/VedVarshney/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/VedVarshney/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/VedVarshney/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->olutions in java.
 
 <!---LeetCode Topics Start-->
