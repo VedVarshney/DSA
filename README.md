@@ -83,6 +83,7 @@ Leetcode questions solutions in java.
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/VedVarshney/DSA/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3731-find-missing-elements](https://github.com/VedVarshney/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
@@ -223,6 +224,7 @@ Leetcode questions solutions in java.
 | [0303-range-sum-query-immutable](https://github.com/VedVarshney/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/VedVarshney/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/VedVarshney/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/VedVarshney/DSA/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
