@@ -43,6 +43,7 @@ Leetcode questions solutions in java.
 | [0141-linked-list-cycle](https://github.com/VedVarshney/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/VedVarshney/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/VedVarshney/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0217-contains-duplicate](https://github.com/VedVarshney/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/VedVarshney/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VedVarshney/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VedVarshney/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -63,6 +64,7 @@ Leetcode questions solutions in java.
 | [0035-search-insert-position](https://github.com/VedVarshney/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0059-spiral-matrix-ii](https://github.com/VedVarshney/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0136-single-number](https://github.com/VedVarshney/DSA/tree/main/0136-single-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/VedVarshney/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/VedVarshney/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VedVarshney/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/VedVarshney/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -162,6 +164,7 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/VedVarshney/DSA/tree/main/0015-3sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/VedVarshney/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/VedVarshney/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VedVarshney/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/VedVarshney/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
