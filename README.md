@@ -49,6 +49,7 @@ Leetcode questions solutions in java.
 | [0349-intersection-of-two-arrays](https://github.com/VedVarshney/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/VedVarshney/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VedVarshney/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/VedVarshney/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VedVarshney/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0771-jewels-and-stones](https://github.com/VedVarshney/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/VedVarshney/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -173,6 +174,7 @@ Leetcode questions solutions in java.
 | [0217-contains-duplicate](https://github.com/VedVarshney/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/VedVarshney/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VedVarshney/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/VedVarshney/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VedVarshney/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/VedVarshney/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -192,6 +194,7 @@ Leetcode questions solutions in java.
 | [0344-reverse-string](https://github.com/VedVarshney/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/VedVarshney/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VedVarshney/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/VedVarshney/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0415-add-strings](https://github.com/VedVarshney/DSA/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/VedVarshney/DSA/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/VedVarshney/DSA/tree/main/0520-detect-capital/) | Easy |
@@ -202,6 +205,7 @@ Leetcode questions solutions in java.
 | ------- | ------- |
 | [0067-add-binary](https://github.com/VedVarshney/DSA/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/VedVarshney/DSA/tree/main/0136-single-number/) | Easy |
+| [0389-find-the-difference](https://github.com/VedVarshney/DSA/tree/main/0389-find-the-difference/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
