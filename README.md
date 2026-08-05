@@ -84,6 +84,7 @@ Leetcode questions solutions in java.
 | [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/VedVarshney/DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/VedVarshney/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/VedVarshney/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/VedVarshney/DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/VedVarshney/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -166,6 +167,7 @@ Leetcode questions solutions in java.
 | [0628-maximum-product-of-three-numbers](https://github.com/VedVarshney/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/VedVarshney/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0877-stone-game](https://github.com/VedVarshney/DSA/tree/main/0877-stone-game/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/VedVarshney/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VedVarshney/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2235-add-two-integers](https://github.com/VedVarshney/DSA/tree/main/2235-add-two-integers/) | Easy |
