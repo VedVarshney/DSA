@@ -35,6 +35,7 @@ Leetcode questions solutions in java.
 | [0349-intersection-of-two-arrays](https://github.com/VedVarshney/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/VedVarshney/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/VedVarshney/DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Hash Table
@@ -81,6 +82,7 @@ Leetcode questions solutions in java.
 | [0852-peak-index-in-a-mountain-array](https://github.com/VedVarshney/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/VedVarshney/DSA/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/VedVarshney/DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/VedVarshney/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/VedVarshney/DSA/tree/main/1470-shuffle-the-array/) | Easy |
