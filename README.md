@@ -99,6 +99,7 @@ Leetcode questions solutions in java.
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/VedVarshney/DSA/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3731-find-missing-elements](https://github.com/VedVarshney/DSA/tree/main/3731-find-missing-elements/) | Easy |
+| [3833-count-dominant-indices](https://github.com/VedVarshney/DSA/tree/main/3833-count-dominant-indices/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/VedVarshney/DSA/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3866-first-unique-even-element](https://github.com/VedVarshney/DSA/tree/main/3866-first-unique-even-element/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/VedVarshney/DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
@@ -252,6 +253,7 @@ Leetcode questions solutions in java.
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedVarshney/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3833-count-dominant-indices](https://github.com/VedVarshney/DSA/tree/main/3833-count-dominant-indices/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/VedVarshney/DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
