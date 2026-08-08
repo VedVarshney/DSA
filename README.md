@@ -27,6 +27,7 @@ Leetcode questions solutions in java.
 | [0015-3sum](https://github.com/VedVarshney/DSA/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VedVarshney/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/VedVarshney/DSA/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/VedVarshney/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/VedVarshney/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/VedVarshney/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/VedVarshney/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -71,6 +72,7 @@ Leetcode questions solutions in java.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/VedVarshney/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0059-spiral-matrix-ii](https://github.com/VedVarshney/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0075-sort-colors](https://github.com/VedVarshney/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/VedVarshney/DSA/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/VedVarshney/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/VedVarshney/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -200,6 +202,7 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/VedVarshney/DSA/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/VedVarshney/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/VedVarshney/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/VedVarshney/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VedVarshney/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -261,6 +264,7 @@ Leetcode questions solutions in java.
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/VedVarshney/DSA/tree/main/0075-sort-colors/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VedVarshney/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -284,6 +288,10 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VedVarshney/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/VedVarshney/DSA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->olutions in java.
 
 <!---LeetCode Topics Start-->
