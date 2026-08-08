@@ -30,6 +30,7 @@ Leetcode questions solutions in java.
 | [0141-linked-list-cycle](https://github.com/VedVarshney/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/VedVarshney/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/VedVarshney/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/VedVarshney/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/VedVarshney/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/VedVarshney/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VedVarshney/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -71,6 +72,7 @@ Leetcode questions solutions in java.
 | [0035-search-insert-position](https://github.com/VedVarshney/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0059-spiral-matrix-ii](https://github.com/VedVarshney/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0136-single-number](https://github.com/VedVarshney/DSA/tree/main/0136-single-number/) | Easy |
+| [0189-rotate-array](https://github.com/VedVarshney/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/VedVarshney/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/VedVarshney/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VedVarshney/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -180,6 +182,7 @@ Leetcode questions solutions in java.
 | [0002-add-two-numbers](https://github.com/VedVarshney/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0067-add-binary](https://github.com/VedVarshney/DSA/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/VedVarshney/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0189-rotate-array](https://github.com/VedVarshney/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0367-valid-perfect-square](https://github.com/VedVarshney/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/VedVarshney/DSA/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/VedVarshney/DSA/tree/main/0504-base-7/) | Easy |
