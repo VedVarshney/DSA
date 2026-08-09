@@ -3,12 +3,11 @@ class Solution {
     int esum=0,dsum=0;
     for(int i=0; i<arr.length; i++){
         esum+=arr[i];
-        int rm;
-        while(arr[i]>0){
-        rm=arr[i]%10;
-        dsum+=rm;
-        arr[i]/=10;
-        }
+        int a=arr[i]%10; arr[i]/=10;
+        int b=arr[i]%10; arr[i]/=10;
+        int c=arr[i]%10; arr[i]/=10;
+        int d=arr[i]%10; 
+        dsum+=a+b+c+d;
     }    
     return Math.abs(esum-dsum);
     }
