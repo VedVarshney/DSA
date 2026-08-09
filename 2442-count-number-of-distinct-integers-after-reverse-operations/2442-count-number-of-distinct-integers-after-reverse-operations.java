@@ -1,15 +1,14 @@
 class Solution {
-    public int countDistinctIntegers(int[] arr){
+    public int countDistinctIntegers(int[] arr) {
     HashSet<Integer> set = new HashSet<>();
     for(int ele : arr){
         set.add(ele);
         int rv=0;
-        while(ele>0){
-            rv=rv*10+ele%10;
-            ele/=10;
+        for(int i=ele; i>0; i/=10){
+        rv=rv*10+i%10;
         }
         set.add(rv);
-    }    
+    }   
     return set.size();
     }
 }
