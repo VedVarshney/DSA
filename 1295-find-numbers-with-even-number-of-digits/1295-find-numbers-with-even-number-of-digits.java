@@ -1,19 +1,20 @@
 class Solution {
-    public int count(int x){
-        int c=0;
-        while(x>0){
-        x/=10;
-        c++;
+    public int count(int n){
+        int rm,c=0;
+        while(n>0){
+            rm=n%10;
+            c++;
+            n/=10;
         }
         return c;
     }
     public int findNumbers(int[] arr) {
-    int n=0;
-    for(int i=0; i<arr.length; i++){
-    if(count(arr[i])%2==0)
-    n++;
+    int c=0;
+    for(int ele : arr){
+    if(count(ele)%2==0)
+    c++;
     }   
-    return n;
+    return c;
     }
 }
 
