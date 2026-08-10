@@ -39,6 +39,7 @@ Leetcode questions solutions in java.
 | [0633-sum-of-square-numbers](https://github.com/VedVarshney/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/VedVarshney/DSA/tree/main/1089-duplicate-zeros/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/VedVarshney/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Hash Table
@@ -57,6 +58,7 @@ Leetcode questions solutions in java.
 | [0442-find-all-duplicates-in-an-array](https://github.com/VedVarshney/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0771-jewels-and-stones](https://github.com/VedVarshney/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/VedVarshney/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/VedVarshney/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VedVarshney/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/VedVarshney/DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
@@ -96,6 +98,7 @@ Leetcode questions solutions in java.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VedVarshney/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/VedVarshney/DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VedVarshney/DSA/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/VedVarshney/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VedVarshney/DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VedVarshney/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -189,6 +192,7 @@ Leetcode questions solutions in java.
 | [0633-sum-of-square-numbers](https://github.com/VedVarshney/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/VedVarshney/DSA/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VedVarshney/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/VedVarshney/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VedVarshney/DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -225,6 +229,7 @@ Leetcode questions solutions in java.
 | [0628-maximum-product-of-three-numbers](https://github.com/VedVarshney/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/VedVarshney/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/VedVarshney/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/VedVarshney/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VedVarshney/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
