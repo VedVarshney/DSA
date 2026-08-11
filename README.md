@@ -60,6 +60,7 @@ Leetcode questions solutions in java.
 | [0389-find-the-difference](https://github.com/VedVarshney/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VedVarshney/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0771-jewels-and-stones](https://github.com/VedVarshney/DSA/tree/main/0771-jewels-and-stones/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/VedVarshney/DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/VedVarshney/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VedVarshney/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VedVarshney/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -95,6 +96,7 @@ Leetcode questions solutions in java.
 | [0747-largest-number-at-least-twice-of-others](https://github.com/VedVarshney/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VedVarshney/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/VedVarshney/DSA/tree/main/0877-stone-game/) | Medium |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/VedVarshney/DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/VedVarshney/DSA/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/VedVarshney/DSA/tree/main/1089-duplicate-zeros/) | Easy |
@@ -338,6 +340,10 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/VedVarshney/DSA/tree/main/1051-height-checker/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/VedVarshney/DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 <!---LeetCode Topics End-->olutions in java.
 
 <!---LeetCode Topics Start-->
