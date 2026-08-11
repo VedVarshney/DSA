@@ -96,6 +96,7 @@ Leetcode questions solutions in java.
 | [0852-peak-index-in-a-mountain-array](https://github.com/VedVarshney/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/VedVarshney/DSA/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/VedVarshney/DSA/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/VedVarshney/DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/VedVarshney/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/VedVarshney/DSA/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
@@ -237,6 +238,7 @@ Leetcode questions solutions in java.
 | [0628-maximum-product-of-three-numbers](https://github.com/VedVarshney/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/VedVarshney/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/VedVarshney/DSA/tree/main/1051-height-checker/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VedVarshney/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/VedVarshney/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -323,6 +325,7 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/VedVarshney/DSA/tree/main/0075-sort-colors/) | Medium |
+| [1051-height-checker](https://github.com/VedVarshney/DSA/tree/main/1051-height-checker/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,6 +334,10 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VedVarshney/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/VedVarshney/DSA/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->olutions in java.
 
 <!---LeetCode Topics Start-->
