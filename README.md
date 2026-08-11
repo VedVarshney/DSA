@@ -37,6 +37,7 @@ Leetcode questions solutions in java.
 | [0344-reverse-string](https://github.com/VedVarshney/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/VedVarshney/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VedVarshney/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VedVarshney/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VedVarshney/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/VedVarshney/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -55,6 +56,7 @@ Leetcode questions solutions in java.
 | [0219-contains-duplicate-ii](https://github.com/VedVarshney/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/VedVarshney/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VedVarshney/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VedVarshney/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/VedVarshney/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VedVarshney/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/VedVarshney/DSA/tree/main/0389-find-the-difference/) | Easy |
@@ -89,6 +91,7 @@ Leetcode questions solutions in java.
 | [0219-contains-duplicate-ii](https://github.com/VedVarshney/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/VedVarshney/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VedVarshney/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VedVarshney/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VedVarshney/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VedVarshney/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/VedVarshney/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -201,6 +204,7 @@ Leetcode questions solutions in java.
 | [0069-sqrtx](https://github.com/VedVarshney/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VedVarshney/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/VedVarshney/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VedVarshney/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/VedVarshney/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/VedVarshney/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/VedVarshney/DSA/tree/main/0704-binary-search/) | Easy |
@@ -238,6 +242,7 @@ Leetcode questions solutions in java.
 | [0217-contains-duplicate](https://github.com/VedVarshney/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/VedVarshney/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VedVarshney/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VedVarshney/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/VedVarshney/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VedVarshney/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/VedVarshney/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
