@@ -140,6 +140,7 @@ Leetcode questions solutions in java.
 | [2016-maximum-difference-between-increasing-elements](https://github.com/VedVarshney/DSA/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/VedVarshney/DSA/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/VedVarshney/DSA/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/VedVarshney/DSA/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -161,6 +162,7 @@ Leetcode questions solutions in java.
 | [0059-spiral-matrix-ii](https://github.com/VedVarshney/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VedVarshney/DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VedVarshney/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/VedVarshney/DSA/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
