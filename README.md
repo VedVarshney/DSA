@@ -136,6 +136,7 @@ Leetcode questions solutions in java.
 | [1848-minimum-distance-to-the-target-element](https://github.com/VedVarshney/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VedVarshney/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VedVarshney/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/VedVarshney/DSA/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/VedVarshney/DSA/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
