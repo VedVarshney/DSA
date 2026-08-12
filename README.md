@@ -134,6 +134,7 @@ Leetcode questions solutions in java.
 | [1748-sum-of-unique-elements](https://github.com/VedVarshney/DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/VedVarshney/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VedVarshney/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VedVarshney/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VedVarshney/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/VedVarshney/DSA/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
@@ -159,6 +160,7 @@ Leetcode questions solutions in java.
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/VedVarshney/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VedVarshney/DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VedVarshney/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
