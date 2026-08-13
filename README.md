@@ -157,6 +157,7 @@ Leetcode questions solutions in java.
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/VedVarshney/DSA/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/VedVarshney/DSA/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
+| [3683-earliest-time-to-finish-one-task](https://github.com/VedVarshney/DSA/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/VedVarshney/DSA/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/VedVarshney/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/VedVarshney/DSA/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
