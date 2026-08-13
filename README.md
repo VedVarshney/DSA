@@ -157,6 +157,7 @@ Leetcode questions solutions in java.
 | [3861-minimum-capacity-box](https://github.com/VedVarshney/DSA/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3866-first-unique-even-element](https://github.com/VedVarshney/DSA/tree/main/3866-first-unique-even-element/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/VedVarshney/DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/VedVarshney/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3912-valid-elements-in-an-array](https://github.com/VedVarshney/DSA/tree/main/3912-valid-elements-in-an-array/) | Easy |
 | [3917-count-indices-with-opposite-parity](https://github.com/VedVarshney/DSA/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/VedVarshney/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -169,6 +170,7 @@ Leetcode questions solutions in java.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VedVarshney/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/VedVarshney/DSA/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/VedVarshney/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -381,6 +383,10 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VedVarshney/DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/VedVarshney/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->olutions in java.
 
 <!---LeetCode Topics Start-->
