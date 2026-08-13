@@ -79,6 +79,7 @@ Leetcode questions solutions in java.
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/VedVarshney/DSA/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/VedVarshney/DSA/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/VedVarshney/DSA/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VedVarshney/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/VedVarshney/DSA/tree/main/3731-find-missing-elements/) | Easy |
@@ -155,6 +156,7 @@ Leetcode questions solutions in java.
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/VedVarshney/DSA/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/VedVarshney/DSA/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/VedVarshney/DSA/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/VedVarshney/DSA/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/VedVarshney/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/VedVarshney/DSA/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
