@@ -51,6 +51,7 @@ Leetcode questions solutions in java.
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/VedVarshney/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/VedVarshney/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/VedVarshney/DSA/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VedVarshney/DSA/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/VedVarshney/DSA/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/VedVarshney/DSA/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Hash Table
@@ -222,6 +223,7 @@ Leetcode questions solutions in java.
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/VedVarshney/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VedVarshney/DSA/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3894-traffic-signal-color](https://github.com/VedVarshney/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 | [3921-score-validator](https://github.com/VedVarshney/DSA/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/VedVarshney/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -361,6 +363,7 @@ Leetcode questions solutions in java.
 | [2418-sort-the-people](https://github.com/VedVarshney/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/VedVarshney/DSA/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VedVarshney/DSA/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/VedVarshney/DSA/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3894-traffic-signal-color](https://github.com/VedVarshney/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 | [3921-score-validator](https://github.com/VedVarshney/DSA/tree/main/3921-score-validator/) | Easy |
