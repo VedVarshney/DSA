@@ -171,6 +171,7 @@ Leetcode questions solutions in java.
 | [2089-find-target-indices-after-sorting-array](https://github.com/VedVarshney/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/VedVarshney/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/VedVarshney/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/VedVarshney/DSA/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/VedVarshney/DSA/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -371,6 +372,7 @@ Leetcode questions solutions in java.
 | [0917-reverse-only-letters](https://github.com/VedVarshney/DSA/tree/main/0917-reverse-only-letters/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/VedVarshney/DSA/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/VedVarshney/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/VedVarshney/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2418-sort-the-people](https://github.com/VedVarshney/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/VedVarshney/DSA/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
