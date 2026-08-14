@@ -374,6 +374,7 @@ Leetcode questions solutions in java.
 | [2418-sort-the-people](https://github.com/VedVarshney/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/VedVarshney/DSA/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3340-check-balanced-string](https://github.com/VedVarshney/DSA/tree/main/3340-check-balanced-string/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/VedVarshney/DSA/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VedVarshney/DSA/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/VedVarshney/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
