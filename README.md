@@ -156,6 +156,7 @@ Leetcode questions solutions in java.
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VedVarshney/DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/VedVarshney/DSA/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/VedVarshney/DSA/tree/main/2057-smallest-index-with-equal-value/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VedVarshney/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/VedVarshney/DSA/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
@@ -265,6 +266,7 @@ Leetcode questions solutions in java.
 | [1346-check-if-n-and-its-double-exist](https://github.com/VedVarshney/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VedVarshney/DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VedVarshney/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VedVarshney/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +318,7 @@ Leetcode questions solutions in java.
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/VedVarshney/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VedVarshney/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VedVarshney/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VedVarshney/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2418-sort-the-people](https://github.com/VedVarshney/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/VedVarshney/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
