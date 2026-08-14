@@ -76,6 +76,7 @@ Leetcode questions solutions in java.
 | [1512-number-of-good-pairs](https://github.com/VedVarshney/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/VedVarshney/DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VedVarshney/DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/VedVarshney/DSA/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/VedVarshney/DSA/tree/main/2418-sort-the-people/) | Easy |
@@ -152,6 +153,7 @@ Leetcode questions solutions in java.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VedVarshney/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VedVarshney/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VedVarshney/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VedVarshney/DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/VedVarshney/DSA/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/VedVarshney/DSA/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -363,6 +365,7 @@ Leetcode questions solutions in java.
 | [1512-number-of-good-pairs](https://github.com/VedVarshney/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/VedVarshney/DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VedVarshney/DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/VedVarshney/DSA/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/VedVarshney/DSA/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
