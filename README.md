@@ -28,6 +28,7 @@ Leetcode questions solutions in java.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VedVarshney/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/VedVarshney/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/VedVarshney/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/VedVarshney/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/VedVarshney/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/VedVarshney/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/VedVarshney/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -335,6 +336,7 @@ Leetcode questions solutions in java.
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/VedVarshney/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/VedVarshney/DSA/tree/main/0067-add-binary/) | Easy |
+| [0125-valid-palindrome](https://github.com/VedVarshney/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/VedVarshney/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/VedVarshney/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/VedVarshney/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
