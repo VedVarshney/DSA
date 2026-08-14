@@ -221,6 +221,7 @@ Leetcode questions solutions in java.
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/VedVarshney/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3894-traffic-signal-color](https://github.com/VedVarshney/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 | [3921-score-validator](https://github.com/VedVarshney/DSA/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/VedVarshney/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Recursion
@@ -302,6 +303,7 @@ Leetcode questions solutions in java.
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/VedVarshney/DSA/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/VedVarshney/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/VedVarshney/DSA/tree/main/3697-compute-decimal-representation/) | Easy |
+| [3894-traffic-signal-color](https://github.com/VedVarshney/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -358,6 +360,7 @@ Leetcode questions solutions in java.
 | [2418-sort-the-people](https://github.com/VedVarshney/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/VedVarshney/DSA/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3894-traffic-signal-color](https://github.com/VedVarshney/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 | [3921-score-validator](https://github.com/VedVarshney/DSA/tree/main/3921-score-validator/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/VedVarshney/DSA/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Bit Manipulation
