@@ -41,6 +41,7 @@ Leetcode questions solutions in java.
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedVarshney/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VedVarshney/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/VedVarshney/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0821-shortest-distance-to-a-character](https://github.com/VedVarshney/DSA/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/VedVarshney/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/VedVarshney/DSA/tree/main/1089-duplicate-zeros/) | Easy |
@@ -124,6 +125,7 @@ Leetcode questions solutions in java.
 | [0704-binary-search](https://github.com/VedVarshney/DSA/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/VedVarshney/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/VedVarshney/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/VedVarshney/DSA/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VedVarshney/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/VedVarshney/DSA/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/VedVarshney/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -359,6 +361,7 @@ Leetcode questions solutions in java.
 | [0557-reverse-words-in-a-string-iii](https://github.com/VedVarshney/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VedVarshney/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/VedVarshney/DSA/tree/main/0796-rotate-string/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/VedVarshney/DSA/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/VedVarshney/DSA/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/VedVarshney/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2418-sort-the-people](https://github.com/VedVarshney/DSA/tree/main/2418-sort-the-people/) | Easy |
