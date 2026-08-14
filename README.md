@@ -91,6 +91,7 @@ Leetcode questions solutions in java.
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/VedVarshney/DSA/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VedVarshney/DSA/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VedVarshney/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/VedVarshney/DSA/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/VedVarshney/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
@@ -372,6 +373,7 @@ Leetcode questions solutions in java.
 | [2418-sort-the-people](https://github.com/VedVarshney/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/VedVarshney/DSA/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VedVarshney/DSA/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/VedVarshney/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VedVarshney/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/VedVarshney/DSA/tree/main/3813-vowel-consonant-score/) | Easy |
@@ -404,6 +406,7 @@ Leetcode questions solutions in java.
 | [2085-count-common-words-with-one-occurrence](https://github.com/VedVarshney/DSA/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/VedVarshney/DSA/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VedVarshney/DSA/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VedVarshney/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/VedVarshney/DSA/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/VedVarshney/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
