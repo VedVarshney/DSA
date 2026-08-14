@@ -76,6 +76,7 @@ Leetcode questions solutions in java.
 | [1748-sum-of-unique-elements](https://github.com/VedVarshney/DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/VedVarshney/DSA/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/VedVarshney/DSA/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -152,6 +153,7 @@ Leetcode questions solutions in java.
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/VedVarshney/DSA/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/VedVarshney/DSA/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/VedVarshney/DSA/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/VedVarshney/DSA/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -351,6 +353,7 @@ Leetcode questions solutions in java.
 | [1512-number-of-good-pairs](https://github.com/VedVarshney/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/VedVarshney/DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/VedVarshney/DSA/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/VedVarshney/DSA/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/VedVarshney/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
