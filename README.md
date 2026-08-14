@@ -77,6 +77,7 @@ Leetcode questions solutions in java.
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/VedVarshney/DSA/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2418-sort-the-people](https://github.com/VedVarshney/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/VedVarshney/DSA/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -154,6 +155,7 @@ Leetcode questions solutions in java.
 | [2319-check-if-matrix-is-x-matrix](https://github.com/VedVarshney/DSA/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/VedVarshney/DSA/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2418-sort-the-people](https://github.com/VedVarshney/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/VedVarshney/DSA/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/VedVarshney/DSA/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -308,6 +310,7 @@ Leetcode questions solutions in java.
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VedVarshney/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VedVarshney/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2418-sort-the-people](https://github.com/VedVarshney/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/VedVarshney/DSA/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3731-find-missing-elements](https://github.com/VedVarshney/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
@@ -331,6 +334,7 @@ Leetcode questions solutions in java.
 | [0520-detect-capital](https://github.com/VedVarshney/DSA/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VedVarshney/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VedVarshney/DSA/tree/main/0771-jewels-and-stones/) | Easy |
+| [2418-sort-the-people](https://github.com/VedVarshney/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/VedVarshney/DSA/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Bit Manipulation
