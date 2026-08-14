@@ -49,6 +49,7 @@ Leetcode questions solutions in java.
 | [1346-check-if-n-and-its-double-exist](https://github.com/VedVarshney/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VedVarshney/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/VedVarshney/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/VedVarshney/DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/VedVarshney/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -374,6 +375,7 @@ Leetcode questions solutions in java.
 | [0796-rotate-string](https://github.com/VedVarshney/DSA/tree/main/0796-rotate-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/VedVarshney/DSA/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/VedVarshney/DSA/tree/main/0917-reverse-only-letters/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/VedVarshney/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VedVarshney/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/VedVarshney/DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/VedVarshney/DSA/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
