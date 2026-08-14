@@ -169,6 +169,7 @@ Leetcode questions solutions in java.
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VedVarshney/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VedVarshney/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VedVarshney/DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/VedVarshney/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/VedVarshney/DSA/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/VedVarshney/DSA/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/VedVarshney/DSA/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -231,6 +232,7 @@ Leetcode questions solutions in java.
 | [0415-add-strings](https://github.com/VedVarshney/DSA/tree/main/0415-add-strings/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/VedVarshney/DSA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VedVarshney/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/VedVarshney/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/VedVarshney/DSA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -382,6 +384,7 @@ Leetcode questions solutions in java.
 | [1816-truncate-sentence](https://github.com/VedVarshney/DSA/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VedVarshney/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/VedVarshney/DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/VedVarshney/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/VedVarshney/DSA/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/VedVarshney/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VedVarshney/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
