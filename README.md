@@ -47,6 +47,7 @@ Leetcode questions solutions in java.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VedVarshney/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/VedVarshney/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/VedVarshney/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/VedVarshney/DSA/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/VedVarshney/DSA/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
@@ -158,6 +159,7 @@ Leetcode questions solutions in java.
 | [2057-smallest-index-with-equal-value](https://github.com/VedVarshney/DSA/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VedVarshney/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/VedVarshney/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/VedVarshney/DSA/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/VedVarshney/DSA/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -345,6 +347,7 @@ Leetcode questions solutions in java.
 | [0520-detect-capital](https://github.com/VedVarshney/DSA/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VedVarshney/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VedVarshney/DSA/tree/main/0771-jewels-and-stones/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/VedVarshney/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2418-sort-the-people](https://github.com/VedVarshney/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/VedVarshney/DSA/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
