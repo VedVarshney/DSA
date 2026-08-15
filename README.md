@@ -315,6 +315,7 @@ Leetcode questions solutions in java.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VedVarshney/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VedVarshney/DSA/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VedVarshney/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/VedVarshney/DSA/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VedVarshney/DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2235-add-two-integers](https://github.com/VedVarshney/DSA/tree/main/2235-add-two-integers/) | Easy |
