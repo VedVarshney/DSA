@@ -88,6 +88,7 @@ Leetcode questions solutions in java.
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VedVarshney/DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/VedVarshney/DSA/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/VedVarshney/DSA/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/VedVarshney/DSA/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/VedVarshney/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/VedVarshney/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -398,6 +399,7 @@ Leetcode questions solutions in java.
 | [2185-counting-words-with-a-given-prefix](https://github.com/VedVarshney/DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/VedVarshney/DSA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/VedVarshney/DSA/tree/main/2278-percentage-of-letter-in-string/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/VedVarshney/DSA/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2418-sort-the-people](https://github.com/VedVarshney/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/VedVarshney/DSA/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VedVarshney/DSA/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
@@ -469,6 +471,7 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/VedVarshney/DSA/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedVarshney/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3833-count-dominant-indices](https://github.com/VedVarshney/DSA/tree/main/3833-count-dominant-indices/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/VedVarshney/DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
