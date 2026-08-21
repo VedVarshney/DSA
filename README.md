@@ -133,6 +133,7 @@ Leetcode questions solutions in java.
 | [0485-max-consecutive-ones](https://github.com/VedVarshney/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/VedVarshney/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/VedVarshney/DSA/tree/main/0645-set-mismatch/) | Easy |
+| [0682-baseball-game](https://github.com/VedVarshney/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/VedVarshney/DSA/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/VedVarshney/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/VedVarshney/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -242,6 +243,7 @@ Leetcode questions solutions in java.
 | [0067-add-binary](https://github.com/VedVarshney/DSA/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/VedVarshney/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/VedVarshney/DSA/tree/main/0415-add-strings/) | Easy |
+| [0682-baseball-game](https://github.com/VedVarshney/DSA/tree/main/0682-baseball-game/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/VedVarshney/DSA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VedVarshney/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VedVarshney/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -269,6 +271,7 @@ Leetcode questions solutions in java.
 | [0144-binary-tree-preorder-traversal](https://github.com/VedVarshney/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/VedVarshney/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VedVarshney/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0682-baseball-game](https://github.com/VedVarshney/DSA/tree/main/0682-baseball-game/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VedVarshney/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/VedVarshney/DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Tree
