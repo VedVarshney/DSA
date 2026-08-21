@@ -431,6 +431,7 @@ Leetcode questions solutions in java.
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VedVarshney/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/VedVarshney/DSA/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VedVarshney/DSA/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3856-trim-trailing-vowels](https://github.com/VedVarshney/DSA/tree/main/3856-trim-trailing-vowels/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/VedVarshney/DSA/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3894-traffic-signal-color](https://github.com/VedVarshney/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 | [3921-score-validator](https://github.com/VedVarshney/DSA/tree/main/3921-score-validator/) | Easy |
