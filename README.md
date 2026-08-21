@@ -340,6 +340,7 @@ Leetcode questions solutions in java.
 | [3663-find-the-least-frequent-digit](https://github.com/VedVarshney/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/VedVarshney/DSA/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3894-traffic-signal-color](https://github.com/VedVarshney/DSA/tree/main/3894-traffic-signal-color/) | Easy |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/VedVarshney/DSA/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -434,6 +435,7 @@ Leetcode questions solutions in java.
 | [3894-traffic-signal-color](https://github.com/VedVarshney/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 | [3921-score-validator](https://github.com/VedVarshney/DSA/tree/main/3921-score-validator/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/VedVarshney/DSA/tree/main/3931-check-adjacent-digit-differences/) | Easy |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/VedVarshney/DSA/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
