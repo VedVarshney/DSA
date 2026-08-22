@@ -338,6 +338,7 @@ Leetcode questions solutions in java.
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedVarshney/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VedVarshney/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/VedVarshney/DSA/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VedVarshney/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/VedVarshney/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/VedVarshney/DSA/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3894-traffic-signal-color](https://github.com/VedVarshney/DSA/tree/main/3894-traffic-signal-color/) | Easy |
