@@ -168,6 +168,7 @@ Leetcode questions solutions in java.
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/VedVarshney/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VedVarshney/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VedVarshney/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1528-shuffle-string](https://github.com/VedVarshney/DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/VedVarshney/DSA/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/VedVarshney/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VedVarshney/DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -408,6 +409,7 @@ Leetcode questions solutions in java.
 | [0821-shortest-distance-to-a-character](https://github.com/VedVarshney/DSA/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/VedVarshney/DSA/tree/main/0917-reverse-only-letters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/VedVarshney/DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1528-shuffle-string](https://github.com/VedVarshney/DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VedVarshney/DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/VedVarshney/DSA/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/VedVarshney/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
