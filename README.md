@@ -101,6 +101,7 @@ Leetcode questions solutions in java.
 | [3120-count-the-number-of-special-characters-i](https://github.com/VedVarshney/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/VedVarshney/DSA/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VedVarshney/DSA/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+| [3522-calculate-score-after-performing-instructions](https://github.com/VedVarshney/DSA/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VedVarshney/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/VedVarshney/DSA/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/VedVarshney/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
@@ -207,6 +208,7 @@ Leetcode questions solutions in java.
 | [2942-find-words-containing-character](https://github.com/VedVarshney/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/VedVarshney/DSA/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/VedVarshney/DSA/tree/main/3452-sum-of-good-numbers/) | Easy |
+| [3522-calculate-score-after-performing-instructions](https://github.com/VedVarshney/DSA/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VedVarshney/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/VedVarshney/DSA/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/VedVarshney/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
@@ -253,6 +255,7 @@ Leetcode questions solutions in java.
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/VedVarshney/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3522-calculate-score-after-performing-instructions](https://github.com/VedVarshney/DSA/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/VedVarshney/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/VedVarshney/DSA/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VedVarshney/DSA/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
@@ -431,6 +434,7 @@ Leetcode questions solutions in java.
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/VedVarshney/DSA/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VedVarshney/DSA/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/VedVarshney/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3522-calculate-score-after-performing-instructions](https://github.com/VedVarshney/DSA/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VedVarshney/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/VedVarshney/DSA/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/VedVarshney/DSA/tree/main/3813-vowel-consonant-score/) | Easy |
