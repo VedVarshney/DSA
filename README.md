@@ -160,6 +160,7 @@ Leetcode questions solutions in java.
 | [1389-create-target-array-in-the-given-order](https://github.com/VedVarshney/DSA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VedVarshney/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/VedVarshney/DSA/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/VedVarshney/DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VedVarshney/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
