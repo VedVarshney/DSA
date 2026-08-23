@@ -174,6 +174,7 @@ Leetcode questions solutions in java.
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VedVarshney/DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/VedVarshney/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/VedVarshney/DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/VedVarshney/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1816-truncate-sentence](https://github.com/VedVarshney/DSA/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VedVarshney/DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
