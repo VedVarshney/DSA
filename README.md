@@ -111,6 +111,7 @@ Leetcode questions solutions in java.
 | [3731-find-missing-elements](https://github.com/VedVarshney/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/VedVarshney/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3866-first-unique-even-element](https://github.com/VedVarshney/DSA/tree/main/3866-first-unique-even-element/) | Easy |
+| [3941-password-strength](https://github.com/VedVarshney/DSA/tree/main/3941-password-strength/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -439,6 +440,7 @@ Leetcode questions solutions in java.
 | [3894-traffic-signal-color](https://github.com/VedVarshney/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 | [3921-score-validator](https://github.com/VedVarshney/DSA/tree/main/3921-score-validator/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/VedVarshney/DSA/tree/main/3931-check-adjacent-digit-differences/) | Easy |
+| [3941-password-strength](https://github.com/VedVarshney/DSA/tree/main/3941-password-strength/) | Medium |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/VedVarshney/DSA/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
