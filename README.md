@@ -176,6 +176,7 @@ Leetcode questions solutions in java.
 | [1528-shuffle-string](https://github.com/VedVarshney/DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/VedVarshney/DSA/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/VedVarshney/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/VedVarshney/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VedVarshney/DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/VedVarshney/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/VedVarshney/DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -251,6 +252,7 @@ Leetcode questions solutions in java.
 | [0059-spiral-matrix-ii](https://github.com/VedVarshney/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VedVarshney/DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/VedVarshney/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/VedVarshney/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/VedVarshney/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VedVarshney/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/VedVarshney/DSA/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
