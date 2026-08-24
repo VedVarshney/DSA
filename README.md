@@ -85,6 +85,7 @@ Leetcode questions solutions in java.
 | [1207-unique-number-of-occurrences](https://github.com/VedVarshney/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VedVarshney/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1496-path-crossing](https://github.com/VedVarshney/DSA/tree/main/1496-path-crossing/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VedVarshney/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/VedVarshney/DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
@@ -421,6 +422,7 @@ Leetcode questions solutions in java.
 | [0821-shortest-distance-to-a-character](https://github.com/VedVarshney/DSA/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/VedVarshney/DSA/tree/main/0917-reverse-only-letters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/VedVarshney/DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1496-path-crossing](https://github.com/VedVarshney/DSA/tree/main/1496-path-crossing/) | Easy |
 | [1528-shuffle-string](https://github.com/VedVarshney/DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VedVarshney/DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/VedVarshney/DSA/tree/main/1678-goal-parser-interpretation/) | Easy |
