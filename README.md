@@ -85,6 +85,7 @@ Leetcode questions solutions in java.
 | [1207-unique-number-of-occurrences](https://github.com/VedVarshney/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VedVarshney/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VedVarshney/DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1496-path-crossing](https://github.com/VedVarshney/DSA/tree/main/1496-path-crossing/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VedVarshney/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VedVarshney/DSA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -170,6 +171,7 @@ Leetcode questions solutions in java.
 | [1394-find-lucky-integer-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VedVarshney/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/VedVarshney/DSA/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VedVarshney/DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/VedVarshney/DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VedVarshney/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -401,6 +403,7 @@ Leetcode questions solutions in java.
 | [1051-height-checker](https://github.com/VedVarshney/DSA/tree/main/1051-height-checker/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VedVarshney/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VedVarshney/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VedVarshney/DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/VedVarshney/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VedVarshney/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
