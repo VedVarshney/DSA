@@ -108,6 +108,7 @@ Leetcode questions solutions in java.
 | [3120-count-the-number-of-special-characters-i](https://github.com/VedVarshney/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/VedVarshney/DSA/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VedVarshney/DSA/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3522-calculate-score-after-performing-instructions](https://github.com/VedVarshney/DSA/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VedVarshney/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/VedVarshney/DSA/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -227,6 +228,7 @@ Leetcode questions solutions in java.
 | [2942-find-words-containing-character](https://github.com/VedVarshney/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/VedVarshney/DSA/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/VedVarshney/DSA/tree/main/3452-sum-of-good-numbers/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3522-calculate-score-after-performing-instructions](https://github.com/VedVarshney/DSA/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VedVarshney/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/VedVarshney/DSA/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -293,6 +295,7 @@ Leetcode questions solutions in java.
 | [0021-merge-two-sorted-lists](https://github.com/VedVarshney/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VedVarshney/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -530,6 +533,7 @@ Leetcode questions solutions in java.
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/VedVarshney/DSA/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/VedVarshney/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedVarshney/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3833-count-dominant-indices](https://github.com/VedVarshney/DSA/tree/main/3833-count-dominant-indices/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/VedVarshney/DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Prefix Sum
