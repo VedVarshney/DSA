@@ -369,6 +369,7 @@ Leetcode questions solutions in java.
 | [0628-maximum-product-of-three-numbers](https://github.com/VedVarshney/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/VedVarshney/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0877-stone-game](https://github.com/VedVarshney/DSA/tree/main/0877-stone-game/) | Medium |
+| [1154-day-of-the-year](https://github.com/VedVarshney/DSA/tree/main/1154-day-of-the-year/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VedVarshney/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VedVarshney/DSA/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VedVarshney/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -450,6 +451,7 @@ Leetcode questions solutions in java.
 | [0821-shortest-distance-to-a-character](https://github.com/VedVarshney/DSA/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/VedVarshney/DSA/tree/main/0917-reverse-only-letters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/VedVarshney/DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1154-day-of-the-year](https://github.com/VedVarshney/DSA/tree/main/1154-day-of-the-year/) | Easy |
 | [1496-path-crossing](https://github.com/VedVarshney/DSA/tree/main/1496-path-crossing/) | Easy |
 | [1528-shuffle-string](https://github.com/VedVarshney/DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VedVarshney/DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
