@@ -251,6 +251,7 @@ Leetcode questions solutions in java.
 | [3718-smallest-missing-multiple-of-k](https://github.com/VedVarshney/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/VedVarshney/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/VedVarshney/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/VedVarshney/DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3833-count-dominant-indices](https://github.com/VedVarshney/DSA/tree/main/3833-count-dominant-indices/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/VedVarshney/DSA/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3866-first-unique-even-element](https://github.com/VedVarshney/DSA/tree/main/3866-first-unique-even-element/) | Easy |
@@ -417,6 +418,7 @@ Leetcode questions solutions in java.
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/VedVarshney/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/VedVarshney/DSA/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3731-find-missing-elements](https://github.com/VedVarshney/DSA/tree/main/3731-find-missing-elements/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/VedVarshney/DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -549,6 +551,7 @@ Leetcode questions solutions in java.
 | [2367-number-of-arithmetic-triplets](https://github.com/VedVarshney/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedVarshney/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/VedVarshney/DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3833-count-dominant-indices](https://github.com/VedVarshney/DSA/tree/main/3833-count-dominant-indices/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/VedVarshney/DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Prefix Sum
@@ -610,6 +613,10 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedVarshney/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/VedVarshney/DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 <!---LeetCode Topics End-->olutions in java.
 
 <!---LeetCode Topics Start-->
