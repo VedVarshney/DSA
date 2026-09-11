@@ -384,6 +384,7 @@ Leetcode questions solutions in java.
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VedVarshney/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VedVarshney/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/VedVarshney/DSA/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/VedVarshney/DSA/tree/main/3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VedVarshney/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/VedVarshney/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/VedVarshney/DSA/tree/main/3697-compute-decimal-representation/) | Easy |
@@ -487,6 +488,7 @@ Leetcode questions solutions in java.
 | [3498-reverse-degree-of-a-string](https://github.com/VedVarshney/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3522-calculate-score-after-performing-instructions](https://github.com/VedVarshney/DSA/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VedVarshney/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/VedVarshney/DSA/tree/main/3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/VedVarshney/DSA/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/VedVarshney/DSA/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VedVarshney/DSA/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
