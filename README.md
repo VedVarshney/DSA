@@ -238,6 +238,7 @@ Leetcode questions solutions in java.
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/VedVarshney/DSA/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/VedVarshney/DSA/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VedVarshney/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3522-calculate-score-after-performing-instructions](https://github.com/VedVarshney/DSA/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VedVarshney/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/VedVarshney/DSA/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -379,6 +380,7 @@ Leetcode questions solutions in java.
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/VedVarshney/DSA/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/VedVarshney/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedVarshney/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VedVarshney/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VedVarshney/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/VedVarshney/DSA/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VedVarshney/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
