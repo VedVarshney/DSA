@@ -458,6 +458,7 @@ Leetcode questions solutions in java.
 | [1768-merge-strings-alternately](https://github.com/VedVarshney/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/VedVarshney/DSA/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VedVarshney/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1844-replace-all-digits-with-characters](https://github.com/VedVarshney/DSA/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/VedVarshney/DSA/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/VedVarshney/DSA/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VedVarshney/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
