@@ -92,6 +92,7 @@ Leetcode questions solutions in java.
 | [1748-sum-of-unique-elements](https://github.com/VedVarshney/DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VedVarshney/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VedVarshney/DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VedVarshney/DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/VedVarshney/DSA/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -462,6 +463,7 @@ Leetcode questions solutions in java.
 | [1816-truncate-sentence](https://github.com/VedVarshney/DSA/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VedVarshney/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/VedVarshney/DSA/tree/main/1844-replace-all-digits-with-characters/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VedVarshney/DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/VedVarshney/DSA/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/VedVarshney/DSA/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VedVarshney/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -529,6 +531,7 @@ Leetcode questions solutions in java.
 | [1684-count-the-number-of-consistent-strings](https://github.com/VedVarshney/DSA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/VedVarshney/DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VedVarshney/DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VedVarshney/DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/VedVarshney/DSA/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/VedVarshney/DSA/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
