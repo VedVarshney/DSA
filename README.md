@@ -379,6 +379,7 @@ Leetcode questions solutions in java.
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/VedVarshney/DSA/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/VedVarshney/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/VedVarshney/DSA/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedVarshney/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VedVarshney/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VedVarshney/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -479,6 +480,7 @@ Leetcode questions solutions in java.
 | [3110-score-of-a-string](https://github.com/VedVarshney/DSA/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VedVarshney/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3210-find-the-encrypted-string](https://github.com/VedVarshney/DSA/tree/main/3210-find-the-encrypted-string/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/VedVarshney/DSA/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3340-check-balanced-string](https://github.com/VedVarshney/DSA/tree/main/3340-check-balanced-string/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/VedVarshney/DSA/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VedVarshney/DSA/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
