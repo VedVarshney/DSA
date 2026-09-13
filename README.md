@@ -139,6 +139,7 @@ Leetcode questions solutions in java.
 | [0136-single-number](https://github.com/VedVarshney/DSA/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VedVarshney/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/VedVarshney/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/VedVarshney/DSA/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/VedVarshney/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/VedVarshney/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/VedVarshney/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -364,6 +365,7 @@ Leetcode questions solutions in java.
 | [0067-add-binary](https://github.com/VedVarshney/DSA/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/VedVarshney/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/VedVarshney/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/VedVarshney/DSA/tree/main/0204-count-primes/) | Medium |
 | [0367-valid-perfect-square](https://github.com/VedVarshney/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/VedVarshney/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/VedVarshney/DSA/tree/main/0415-add-strings/) | Easy |
@@ -563,6 +565,7 @@ Leetcode questions solutions in java.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/VedVarshney/DSA/tree/main/0204-count-primes/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/VedVarshney/DSA/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/VedVarshney/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -615,6 +618,7 @@ Leetcode questions solutions in java.
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/VedVarshney/DSA/tree/main/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedVarshney/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/VedVarshney/DSA/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## String Matching
@@ -634,6 +638,18 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3745-maximize-expression-of-three-elements](https://github.com/VedVarshney/DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/VedVarshney/DSA/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/VedVarshney/DSA/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/VedVarshney/DSA/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->olutions in java.
 
 <!---LeetCode Topics Start-->
