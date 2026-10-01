@@ -526,6 +526,7 @@ Leetcode questions solutions in java.
 | [0461-hamming-distance](https://github.com/VedVarshney/DSA/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/VedVarshney/DSA/tree/main/0476-number-complement/) | Easy |
 | [0645-set-mismatch](https://github.com/VedVarshney/DSA/tree/main/0645-set-mismatch/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/VedVarshney/DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VedVarshney/DSA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/VedVarshney/DSA/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 ## Queue
