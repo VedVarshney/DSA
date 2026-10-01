@@ -520,6 +520,7 @@ Leetcode questions solutions in java.
 | ------- | ------- |
 | [0067-add-binary](https://github.com/VedVarshney/DSA/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/VedVarshney/DSA/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/VedVarshney/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/VedVarshney/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0389-find-the-difference](https://github.com/VedVarshney/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/VedVarshney/DSA/tree/main/0645-set-mismatch/) | Easy |
@@ -605,6 +606,7 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VedVarshney/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0191-number-of-1-bits](https://github.com/VedVarshney/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
