@@ -380,6 +380,7 @@ Leetcode questions solutions in java.
 | [1154-day-of-the-year](https://github.com/VedVarshney/DSA/tree/main/1154-day-of-the-year/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VedVarshney/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VedVarshney/DSA/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VedVarshney/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/VedVarshney/DSA/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
@@ -527,6 +528,7 @@ Leetcode questions solutions in java.
 | [0476-number-complement](https://github.com/VedVarshney/DSA/tree/main/0476-number-complement/) | Easy |
 | [0645-set-mismatch](https://github.com/VedVarshney/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/VedVarshney/DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VedVarshney/DSA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/VedVarshney/DSA/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 ## Queue
