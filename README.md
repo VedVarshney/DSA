@@ -143,6 +143,7 @@ Leetcode questions solutions in java.
 | [0204-count-primes](https://github.com/VedVarshney/DSA/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/VedVarshney/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/VedVarshney/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0260-single-number-iii](https://github.com/VedVarshney/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/VedVarshney/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VedVarshney/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedVarshney/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -530,6 +531,7 @@ Leetcode questions solutions in java.
 | [0136-single-number](https://github.com/VedVarshney/DSA/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/VedVarshney/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/VedVarshney/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/VedVarshney/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0342-power-of-four](https://github.com/VedVarshney/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/VedVarshney/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0461-hamming-distance](https://github.com/VedVarshney/DSA/tree/main/0461-hamming-distance/) | Easy |
