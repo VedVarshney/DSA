@@ -541,6 +541,7 @@ Leetcode questions solutions in java.
 | [0461-hamming-distance](https://github.com/VedVarshney/DSA/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/VedVarshney/DSA/tree/main/0476-number-complement/) | Easy |
 | [0645-set-mismatch](https://github.com/VedVarshney/DSA/tree/main/0645-set-mismatch/) | Easy |
+| [0693-binary-number-with-alternating-bits](https://github.com/VedVarshney/DSA/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VedVarshney/DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/VedVarshney/DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
