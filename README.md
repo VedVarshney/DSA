@@ -316,6 +316,7 @@ Leetcode questions solutions in java.
 | [0021-merge-two-sorted-lists](https://github.com/VedVarshney/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/VedVarshney/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VedVarshney/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0342-power-of-four](https://github.com/VedVarshney/DSA/tree/main/0342-power-of-four/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Stack
@@ -374,6 +375,7 @@ Leetcode questions solutions in java.
 | [0189-rotate-array](https://github.com/VedVarshney/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/VedVarshney/DSA/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/VedVarshney/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/VedVarshney/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/VedVarshney/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/VedVarshney/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/VedVarshney/DSA/tree/main/0415-add-strings/) | Easy |
@@ -528,6 +530,7 @@ Leetcode questions solutions in java.
 | [0136-single-number](https://github.com/VedVarshney/DSA/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/VedVarshney/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/VedVarshney/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/VedVarshney/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/VedVarshney/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0461-hamming-distance](https://github.com/VedVarshney/DSA/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/VedVarshney/DSA/tree/main/0476-number-complement/) | Easy |
