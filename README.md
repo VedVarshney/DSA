@@ -536,6 +536,7 @@ Leetcode questions solutions in java.
 | [1009-complement-of-base-10-integer](https://github.com/VedVarshney/DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VedVarshney/DSA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/VedVarshney/DSA/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/VedVarshney/DSA/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VedVarshney/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/VedVarshney/DSA/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
