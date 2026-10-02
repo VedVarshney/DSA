@@ -378,6 +378,7 @@ Leetcode questions solutions in java.
 | [0231-power-of-two](https://github.com/VedVarshney/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/VedVarshney/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/VedVarshney/DSA/tree/main/0367-valid-perfect-square/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/VedVarshney/DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/VedVarshney/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/VedVarshney/DSA/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/VedVarshney/DSA/tree/main/0504-base-7/) | Easy |
@@ -459,6 +460,7 @@ Leetcode questions solutions in java.
 | [0383-ransom-note](https://github.com/VedVarshney/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VedVarshney/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/VedVarshney/DSA/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/VedVarshney/DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/VedVarshney/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/VedVarshney/DSA/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/VedVarshney/DSA/tree/main/0504-base-7/) | Easy |
@@ -534,6 +536,7 @@ Leetcode questions solutions in java.
 | [0260-single-number-iii](https://github.com/VedVarshney/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0342-power-of-four](https://github.com/VedVarshney/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/VedVarshney/DSA/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/VedVarshney/DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0461-hamming-distance](https://github.com/VedVarshney/DSA/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/VedVarshney/DSA/tree/main/0476-number-complement/) | Easy |
 | [0645-set-mismatch](https://github.com/VedVarshney/DSA/tree/main/0645-set-mismatch/) | Easy |
