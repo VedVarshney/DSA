@@ -35,6 +35,7 @@ Leetcode questions solutions in java.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VedVarshney/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/VedVarshney/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/VedVarshney/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/VedVarshney/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/VedVarshney/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/VedVarshney/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VedVarshney/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -145,6 +146,7 @@ Leetcode questions solutions in java.
 | [0217-contains-duplicate](https://github.com/VedVarshney/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/VedVarshney/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0260-single-number-iii](https://github.com/VedVarshney/DSA/tree/main/0260-single-number-iii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/VedVarshney/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/VedVarshney/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VedVarshney/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedVarshney/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -359,6 +361,7 @@ Leetcode questions solutions in java.
 | [0035-search-insert-position](https://github.com/VedVarshney/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/VedVarshney/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VedVarshney/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/VedVarshney/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/VedVarshney/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedVarshney/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/VedVarshney/DSA/tree/main/0367-valid-perfect-square/) | Easy |
@@ -537,6 +540,7 @@ Leetcode questions solutions in java.
 | [0191-number-of-1-bits](https://github.com/VedVarshney/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/VedVarshney/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/VedVarshney/DSA/tree/main/0260-single-number-iii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/VedVarshney/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/VedVarshney/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/VedVarshney/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VedVarshney/DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -648,6 +652,7 @@ Leetcode questions solutions in java.
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/VedVarshney/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VedVarshney/DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -694,6 +699,10 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/VedVarshney/DSA/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/VedVarshney/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->olutions in java.
 
 <!---LeetCode Topics Start-->
