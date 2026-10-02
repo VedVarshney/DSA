@@ -110,6 +110,7 @@ Leetcode questions solutions in java.
 | [2540-minimum-common-value](https://github.com/VedVarshney/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/VedVarshney/DSA/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/VedVarshney/DSA/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VedVarshney/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VedVarshney/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/VedVarshney/DSA/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
@@ -241,6 +242,7 @@ Leetcode questions solutions in java.
 | [2798-number-of-employees-who-met-the-target](https://github.com/VedVarshney/DSA/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/VedVarshney/DSA/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/VedVarshney/DSA/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/VedVarshney/DSA/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/VedVarshney/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/VedVarshney/DSA/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VedVarshney/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -550,6 +552,7 @@ Leetcode questions solutions in java.
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/VedVarshney/DSA/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/VedVarshney/DSA/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/VedVarshney/DSA/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/VedVarshney/DSA/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VedVarshney/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/VedVarshney/DSA/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Queue
@@ -637,6 +640,7 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VedVarshney/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/VedVarshney/DSA/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -686,6 +690,10 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/VedVarshney/DSA/tree/main/0204-count-primes/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/VedVarshney/DSA/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 <!---LeetCode Topics End-->olutions in java.
 
 <!---LeetCode Topics Start-->
