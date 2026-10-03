@@ -562,6 +562,7 @@ Leetcode questions solutions in java.
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VedVarshney/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/VedVarshney/DSA/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3827-count-monobit-integers](https://github.com/VedVarshney/DSA/tree/main/3827-count-monobit-integers/) | Easy |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedVarshney/DSA/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -596,6 +597,7 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/VedVarshney/DSA/tree/main/0877-stone-game/) | Medium |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedVarshney/DSA/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -618,6 +620,7 @@ Leetcode questions solutions in java.
 | [3827-count-monobit-integers](https://github.com/VedVarshney/DSA/tree/main/3827-count-monobit-integers/) | Easy |
 | [3833-count-dominant-indices](https://github.com/VedVarshney/DSA/tree/main/3833-count-dominant-indices/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/VedVarshney/DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedVarshney/DSA/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
