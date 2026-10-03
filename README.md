@@ -140,6 +140,7 @@ Leetcode questions solutions in java.
 | [0059-spiral-matrix-ii](https://github.com/VedVarshney/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0075-sort-colors](https://github.com/VedVarshney/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/VedVarshney/DSA/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/VedVarshney/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VedVarshney/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/VedVarshney/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/VedVarshney/DSA/tree/main/0204-count-primes/) | Medium |
@@ -537,6 +538,7 @@ Leetcode questions solutions in java.
 | ------- | ------- |
 | [0067-add-binary](https://github.com/VedVarshney/DSA/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/VedVarshney/DSA/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/VedVarshney/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/VedVarshney/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/VedVarshney/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/VedVarshney/DSA/tree/main/0260-single-number-iii/) | Medium |
