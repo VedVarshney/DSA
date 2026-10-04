@@ -242,6 +242,7 @@ Leetcode questions solutions in java.
 | [2614-prime-in-diagonal](https://github.com/VedVarshney/DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/VedVarshney/DSA/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/VedVarshney/DSA/tree/main/2678-number-of-senior-citizens/) | Easy |
+| [2683-neighboring-bitwise-xor](https://github.com/VedVarshney/DSA/tree/main/2683-neighboring-bitwise-xor/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/VedVarshney/DSA/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/VedVarshney/DSA/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
@@ -560,6 +561,7 @@ Leetcode questions solutions in java.
 | [2425-bitwise-xor-of-all-pairings](https://github.com/VedVarshney/DSA/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/VedVarshney/DSA/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/VedVarshney/DSA/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
+| [2683-neighboring-bitwise-xor](https://github.com/VedVarshney/DSA/tree/main/2683-neighboring-bitwise-xor/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/VedVarshney/DSA/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VedVarshney/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/VedVarshney/DSA/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
