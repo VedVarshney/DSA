@@ -312,6 +312,7 @@ Leetcode questions solutions in java.
 | [2326-spiral-matrix-iv](https://github.com/VedVarshney/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/VedVarshney/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedVarshney/DSA/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/VedVarshney/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3522-calculate-score-after-performing-instructions](https://github.com/VedVarshney/DSA/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/VedVarshney/DSA/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -418,6 +419,7 @@ Leetcode questions solutions in java.
 | [2614-prime-in-diagonal](https://github.com/VedVarshney/DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/VedVarshney/DSA/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedVarshney/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedVarshney/DSA/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VedVarshney/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VedVarshney/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/VedVarshney/DSA/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -534,6 +536,7 @@ Leetcode questions solutions in java.
 | [3340-check-balanced-string](https://github.com/VedVarshney/DSA/tree/main/3340-check-balanced-string/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/VedVarshney/DSA/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VedVarshney/DSA/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedVarshney/DSA/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/VedVarshney/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3522-calculate-score-after-performing-instructions](https://github.com/VedVarshney/DSA/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VedVarshney/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -691,6 +694,7 @@ Leetcode questions solutions in java.
 | [0204-count-primes](https://github.com/VedVarshney/DSA/tree/main/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedVarshney/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/VedVarshney/DSA/tree/main/2614-prime-in-diagonal/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedVarshney/DSA/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/VedVarshney/DSA/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -735,6 +739,10 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/VedVarshney/DSA/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedVarshney/DSA/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 <!---LeetCode Topics End-->olutions in java.
 
 <!---LeetCode Topics Start-->
