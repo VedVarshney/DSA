@@ -511,6 +511,7 @@ Leetcode questions solutions in java.
 | [2085-count-common-words-with-one-occurrence](https://github.com/VedVarshney/DSA/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/VedVarshney/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VedVarshney/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2129-capitalize-the-title](https://github.com/VedVarshney/DSA/tree/main/2129-capitalize-the-title/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/VedVarshney/DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/VedVarshney/DSA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/VedVarshney/DSA/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
