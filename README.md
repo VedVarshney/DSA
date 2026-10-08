@@ -82,6 +82,7 @@ Leetcode questions solutions in java.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VedVarshney/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/VedVarshney/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VedVarshney/DSA/tree/main/0771-jewels-and-stones/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/VedVarshney/DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VedVarshney/DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/VedVarshney/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VedVarshney/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -160,6 +161,7 @@ Leetcode questions solutions in java.
 | [0704-binary-search](https://github.com/VedVarshney/DSA/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/VedVarshney/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/VedVarshney/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/VedVarshney/DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/VedVarshney/DSA/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VedVarshney/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/VedVarshney/DSA/tree/main/0877-stone-game/) | Medium |
@@ -481,6 +483,7 @@ Leetcode questions solutions in java.
 | [0657-robot-return-to-origin](https://github.com/VedVarshney/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VedVarshney/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/VedVarshney/DSA/tree/main/0796-rotate-string/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/VedVarshney/DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/VedVarshney/DSA/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/VedVarshney/DSA/tree/main/0917-reverse-only-letters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/VedVarshney/DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
