@@ -538,6 +538,7 @@ Leetcode questions solutions in java.
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VedVarshney/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/VedVarshney/DSA/tree/main/3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/VedVarshney/DSA/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3798-largest-even-number](https://github.com/VedVarshney/DSA/tree/main/3798-largest-even-number/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/VedVarshney/DSA/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VedVarshney/DSA/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/VedVarshney/DSA/tree/main/3856-trim-trailing-vowels/) | Easy |
