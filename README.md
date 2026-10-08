@@ -406,6 +406,7 @@ Leetcode questions solutions in java.
 | [1486-xor-operation-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VedVarshney/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/VedVarshney/DSA/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/VedVarshney/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VedVarshney/DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedVarshney/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -494,6 +495,7 @@ Leetcode questions solutions in java.
 | [1678-goal-parser-interpretation](https://github.com/VedVarshney/DSA/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VedVarshney/DSA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/VedVarshney/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/VedVarshney/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1816-truncate-sentence](https://github.com/VedVarshney/DSA/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VedVarshney/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/VedVarshney/DSA/tree/main/1844-replace-all-digits-with-characters/) | Easy |
