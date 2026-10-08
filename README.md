@@ -409,6 +409,7 @@ Leetcode questions solutions in java.
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VedVarshney/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VedVarshney/DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/VedVarshney/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedVarshney/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/VedVarshney/DSA/tree/main/2235-add-two-integers/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -499,6 +500,7 @@ Leetcode questions solutions in java.
 | [1816-truncate-sentence](https://github.com/VedVarshney/DSA/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VedVarshney/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/VedVarshney/DSA/tree/main/1844-replace-all-digits-with-characters/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/VedVarshney/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VedVarshney/DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/VedVarshney/DSA/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/VedVarshney/DSA/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
@@ -703,6 +705,7 @@ Leetcode questions solutions in java.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/VedVarshney/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/VedVarshney/DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
