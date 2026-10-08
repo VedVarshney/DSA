@@ -490,6 +490,7 @@ Leetcode questions solutions in java.
 | [0917-reverse-only-letters](https://github.com/VedVarshney/DSA/tree/main/0917-reverse-only-letters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/VedVarshney/DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/VedVarshney/DSA/tree/main/1154-day-of-the-year/) | Easy |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/VedVarshney/DSA/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1496-path-crossing](https://github.com/VedVarshney/DSA/tree/main/1496-path-crossing/) | Easy |
 | [1528-shuffle-string](https://github.com/VedVarshney/DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VedVarshney/DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
