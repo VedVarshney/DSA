@@ -279,6 +279,7 @@ Leetcode questions solutions in java.
 | [3866-first-unique-even-element](https://github.com/VedVarshney/DSA/tree/main/3866-first-unique-even-element/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/VedVarshney/DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/VedVarshney/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/VedVarshney/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3912-valid-elements-in-an-array](https://github.com/VedVarshney/DSA/tree/main/3912-valid-elements-in-an-array/) | Easy |
 | [3917-count-indices-with-opposite-parity](https://github.com/VedVarshney/DSA/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 | [3921-score-validator](https://github.com/VedVarshney/DSA/tree/main/3921-score-validator/) | Easy |
@@ -659,6 +660,7 @@ Leetcode questions solutions in java.
 | [2485-find-the-pivot-integer](https://github.com/VedVarshney/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/VedVarshney/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/VedVarshney/DSA/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/VedVarshney/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
