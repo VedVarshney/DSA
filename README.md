@@ -213,6 +213,7 @@ Leetcode questions solutions in java.
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/VedVarshney/DSA/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VedVarshney/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedVarshney/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/VedVarshney/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VedVarshney/DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VedVarshney/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/VedVarshney/DSA/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
@@ -654,6 +655,7 @@ Leetcode questions solutions in java.
 | [0724-find-pivot-index](https://github.com/VedVarshney/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/VedVarshney/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/VedVarshney/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/VedVarshney/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/VedVarshney/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/VedVarshney/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/VedVarshney/DSA/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
