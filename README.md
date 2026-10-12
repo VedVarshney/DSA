@@ -290,6 +290,7 @@ Leetcode questions solutions in java.
 | [3921-score-validator](https://github.com/VedVarshney/DSA/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/VedVarshney/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/VedVarshney/DSA/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
+| [3978-unique-middle-element](https://github.com/VedVarshney/DSA/tree/main/3978-unique-middle-element/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -630,6 +631,7 @@ Leetcode questions solutions in java.
 | [3663-find-the-least-frequent-digit](https://github.com/VedVarshney/DSA/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/VedVarshney/DSA/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3866-first-unique-even-element](https://github.com/VedVarshney/DSA/tree/main/3866-first-unique-even-element/) | Easy |
+| [3978-unique-middle-element](https://github.com/VedVarshney/DSA/tree/main/3978-unique-middle-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
