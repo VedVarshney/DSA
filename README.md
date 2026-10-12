@@ -196,6 +196,7 @@ Leetcode questions solutions in java.
 | [1550-three-consecutive-odds](https://github.com/VedVarshney/DSA/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/VedVarshney/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VedVarshney/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/VedVarshney/DSA/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VedVarshney/DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/VedVarshney/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VedVarshney/DSA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -459,6 +460,7 @@ Leetcode questions solutions in java.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/VedVarshney/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VedVarshney/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/VedVarshney/DSA/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VedVarshney/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VedVarshney/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
