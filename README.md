@@ -256,6 +256,7 @@ Leetcode questions solutions in java.
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/VedVarshney/DSA/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/VedVarshney/DSA/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/VedVarshney/DSA/tree/main/2942-find-words-containing-character/) | Easy |
+| [2951-find-the-peaks](https://github.com/VedVarshney/DSA/tree/main/2951-find-the-peaks/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/VedVarshney/DSA/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VedVarshney/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/VedVarshney/DSA/tree/main/3452-sum-of-good-numbers/) | Easy |
@@ -644,6 +645,7 @@ Leetcode questions solutions in java.
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/VedVarshney/DSA/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/VedVarshney/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2951-find-the-peaks](https://github.com/VedVarshney/DSA/tree/main/2951-find-the-peaks/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedVarshney/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/VedVarshney/DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
