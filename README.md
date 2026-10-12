@@ -252,6 +252,7 @@ Leetcode questions solutions in java.
 | [2798-number-of-employees-who-met-the-target](https://github.com/VedVarshney/DSA/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/VedVarshney/DSA/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/VedVarshney/DSA/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/VedVarshney/DSA/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/VedVarshney/DSA/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/VedVarshney/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/VedVarshney/DSA/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
@@ -660,6 +661,7 @@ Leetcode questions solutions in java.
 | [2485-find-the-pivot-integer](https://github.com/VedVarshney/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/VedVarshney/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/VedVarshney/DSA/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/VedVarshney/DSA/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/VedVarshney/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
