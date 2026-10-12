@@ -258,6 +258,7 @@ Leetcode questions solutions in java.
 | [2942-find-words-containing-character](https://github.com/VedVarshney/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [2951-find-the-peaks](https://github.com/VedVarshney/DSA/tree/main/2951-find-the-peaks/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/VedVarshney/DSA/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
+| [3024-type-of-triangle](https://github.com/VedVarshney/DSA/tree/main/3024-type-of-triangle/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/VedVarshney/DSA/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VedVarshney/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/VedVarshney/DSA/tree/main/3452-sum-of-good-numbers/) | Easy |
@@ -427,6 +428,7 @@ Leetcode questions solutions in java.
 | [2485-find-the-pivot-integer](https://github.com/VedVarshney/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/VedVarshney/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/VedVarshney/DSA/tree/main/2614-prime-in-diagonal/) | Easy |
+| [3024-type-of-triangle](https://github.com/VedVarshney/DSA/tree/main/3024-type-of-triangle/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/VedVarshney/DSA/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedVarshney/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedVarshney/DSA/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
@@ -471,6 +473,7 @@ Leetcode questions solutions in java.
 | [2418-sort-the-people](https://github.com/VedVarshney/DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/VedVarshney/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/VedVarshney/DSA/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [3024-type-of-triangle](https://github.com/VedVarshney/DSA/tree/main/3024-type-of-triangle/) | Easy |
 | [3731-find-missing-elements](https://github.com/VedVarshney/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/VedVarshney/DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Heap (Priority Queue)
@@ -762,6 +765,10 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedVarshney/DSA/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3024-type-of-triangle](https://github.com/VedVarshney/DSA/tree/main/3024-type-of-triangle/) | Easy |
 <!---LeetCode Topics End-->olutions in java.
 
 <!---LeetCode Topics Start-->
