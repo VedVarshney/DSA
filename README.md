@@ -417,6 +417,7 @@ Leetcode questions solutions in java.
 | [2235-add-two-integers](https://github.com/VedVarshney/DSA/tree/main/2235-add-two-integers/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VedVarshney/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/VedVarshney/DSA/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/VedVarshney/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/VedVarshney/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/VedVarshney/DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/VedVarshney/DSA/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -653,6 +654,7 @@ Leetcode questions solutions in java.
 | [0724-find-pivot-index](https://github.com/VedVarshney/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/VedVarshney/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/VedVarshney/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/VedVarshney/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/VedVarshney/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/VedVarshney/DSA/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 ## Design
