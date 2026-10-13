@@ -85,6 +85,7 @@ Leetcode questions solutions in java.
 | [0804-unique-morse-code-words](https://github.com/VedVarshney/DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VedVarshney/DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/VedVarshney/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/VedVarshney/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VedVarshney/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VedVarshney/DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
@@ -178,6 +179,7 @@ Leetcode questions solutions in java.
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/VedVarshney/DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VedVarshney/DSA/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/VedVarshney/DSA/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/VedVarshney/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VedVarshney/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VedVarshney/DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VedVarshney/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -464,6 +466,7 @@ Leetcode questions solutions in java.
 | [0905-sort-array-by-parity](https://github.com/VedVarshney/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/VedVarshney/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/VedVarshney/DSA/tree/main/1051-height-checker/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/VedVarshney/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VedVarshney/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VedVarshney/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VedVarshney/DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
