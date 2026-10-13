@@ -164,6 +164,7 @@ Leetcode questions solutions in java.
 | [0747-largest-number-at-least-twice-of-others](https://github.com/VedVarshney/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/VedVarshney/DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/VedVarshney/DSA/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0848-shifting-letters](https://github.com/VedVarshney/DSA/tree/main/0848-shifting-letters/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VedVarshney/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/VedVarshney/DSA/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/VedVarshney/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -508,6 +509,7 @@ Leetcode questions solutions in java.
 | [0796-rotate-string](https://github.com/VedVarshney/DSA/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/VedVarshney/DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/VedVarshney/DSA/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0848-shifting-letters](https://github.com/VedVarshney/DSA/tree/main/0848-shifting-letters/) | Medium |
 | [0917-reverse-only-letters](https://github.com/VedVarshney/DSA/tree/main/0917-reverse-only-letters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/VedVarshney/DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/VedVarshney/DSA/tree/main/1154-day-of-the-year/) | Easy |
@@ -671,6 +673,7 @@ Leetcode questions solutions in java.
 | [0238-product-of-array-except-self](https://github.com/VedVarshney/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/VedVarshney/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/VedVarshney/DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [0848-shifting-letters](https://github.com/VedVarshney/DSA/tree/main/0848-shifting-letters/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/VedVarshney/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/VedVarshney/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/VedVarshney/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
