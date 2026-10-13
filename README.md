@@ -291,6 +291,7 @@ Leetcode questions solutions in java.
 | [3925-concatenate-array-with-reverse](https://github.com/VedVarshney/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/VedVarshney/DSA/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [3978-unique-middle-element](https://github.com/VedVarshney/DSA/tree/main/3978-unique-middle-element/) | Easy |
+| [4020-elevator-requests-i](https://github.com/VedVarshney/DSA/tree/main/4020-elevator-requests-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +334,7 @@ Leetcode questions solutions in java.
 | [3894-traffic-signal-color](https://github.com/VedVarshney/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 | [3921-score-validator](https://github.com/VedVarshney/DSA/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/VedVarshney/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [4020-elevator-requests-i](https://github.com/VedVarshney/DSA/tree/main/4020-elevator-requests-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
