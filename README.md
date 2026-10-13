@@ -276,6 +276,7 @@ Leetcode questions solutions in java.
 | [3701-compute-alternating-sum](https://github.com/VedVarshney/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/VedVarshney/DSA/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VedVarshney/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VedVarshney/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/VedVarshney/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/VedVarshney/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/VedVarshney/DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
@@ -477,6 +478,7 @@ Leetcode questions solutions in java.
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/VedVarshney/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/VedVarshney/DSA/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3024-type-of-triangle](https://github.com/VedVarshney/DSA/tree/main/3024-type-of-triangle/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VedVarshney/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/VedVarshney/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/VedVarshney/DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Heap (Priority Queue)
@@ -739,6 +741,7 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/VedVarshney/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VedVarshney/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/VedVarshney/DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
