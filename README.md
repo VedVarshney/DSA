@@ -132,6 +132,7 @@ Leetcode questions solutions in java.
 | [3842-toggle-light-bulbs](https://github.com/VedVarshney/DSA/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/VedVarshney/DSA/tree/main/3866-first-unique-even-element/) | Easy |
 | [3941-password-strength](https://github.com/VedVarshney/DSA/tree/main/3941-password-strength/) | Medium |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/VedVarshney/DSA/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +299,7 @@ Leetcode questions solutions in java.
 | [3940-limit-occurrences-in-sorted-array](https://github.com/VedVarshney/DSA/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [3978-unique-middle-element](https://github.com/VedVarshney/DSA/tree/main/3978-unique-middle-element/) | Easy |
 | [4020-elevator-requests-i](https://github.com/VedVarshney/DSA/tree/main/4020-elevator-requests-i/) | Easy |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/VedVarshney/DSA/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
