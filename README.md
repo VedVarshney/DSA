@@ -129,6 +129,7 @@ Leetcode questions solutions in java.
 | [3718-smallest-missing-multiple-of-k](https://github.com/VedVarshney/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/VedVarshney/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/VedVarshney/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/VedVarshney/DSA/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/VedVarshney/DSA/tree/main/3866-first-unique-even-element/) | Easy |
 | [3941-password-strength](https://github.com/VedVarshney/DSA/tree/main/3941-password-strength/) | Medium |
 ## Array
@@ -284,6 +285,7 @@ Leetcode questions solutions in java.
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/VedVarshney/DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/VedVarshney/DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3833-count-dominant-indices](https://github.com/VedVarshney/DSA/tree/main/3833-count-dominant-indices/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/VedVarshney/DSA/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/VedVarshney/DSA/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3866-first-unique-even-element](https://github.com/VedVarshney/DSA/tree/main/3866-first-unique-even-element/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/VedVarshney/DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
@@ -335,6 +337,7 @@ Leetcode questions solutions in java.
 | [3701-compute-alternating-sum](https://github.com/VedVarshney/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/VedVarshney/DSA/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VedVarshney/DSA/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/VedVarshney/DSA/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3894-traffic-signal-color](https://github.com/VedVarshney/DSA/tree/main/3894-traffic-signal-color/) | Easy |
 | [3921-score-validator](https://github.com/VedVarshney/DSA/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/VedVarshney/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -485,6 +488,7 @@ Leetcode questions solutions in java.
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VedVarshney/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/VedVarshney/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/VedVarshney/DSA/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/VedVarshney/DSA/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
