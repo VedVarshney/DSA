@@ -266,6 +266,7 @@ Leetcode questions solutions in java.
 | [3024-type-of-triangle](https://github.com/VedVarshney/DSA/tree/main/3024-type-of-triangle/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/VedVarshney/DSA/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VedVarshney/DSA/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/VedVarshney/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/VedVarshney/DSA/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VedVarshney/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -441,6 +442,7 @@ Leetcode questions solutions in java.
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/VedVarshney/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/VedVarshney/DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3024-type-of-triangle](https://github.com/VedVarshney/DSA/tree/main/3024-type-of-triangle/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/VedVarshney/DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/VedVarshney/DSA/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedVarshney/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedVarshney/DSA/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
