@@ -111,6 +111,7 @@ Leetcode questions solutions in java.
 | [2465-number-of-distinct-averages](https://github.com/VedVarshney/DSA/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/VedVarshney/DSA/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2540-minimum-common-value](https://github.com/VedVarshney/DSA/tree/main/2540-minimum-common-value/) | Easy |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/VedVarshney/DSA/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VedVarshney/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/VedVarshney/DSA/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/VedVarshney/DSA/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
@@ -250,6 +251,7 @@ Leetcode questions solutions in java.
 | [2553-separate-the-digits-in-an-array](https://github.com/VedVarshney/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/VedVarshney/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VedVarshney/DSA/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/VedVarshney/DSA/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/VedVarshney/DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/VedVarshney/DSA/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/VedVarshney/DSA/tree/main/2678-number-of-senior-citizens/) | Easy |
@@ -670,6 +672,7 @@ Leetcode questions solutions in java.
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/VedVarshney/DSA/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/VedVarshney/DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/VedVarshney/DSA/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2951-find-the-peaks](https://github.com/VedVarshney/DSA/tree/main/2951-find-the-peaks/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedVarshney/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
