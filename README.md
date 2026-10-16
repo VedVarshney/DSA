@@ -302,6 +302,7 @@ Leetcode questions solutions in java.
 | [3925-concatenate-array-with-reverse](https://github.com/VedVarshney/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/VedVarshney/DSA/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [3978-unique-middle-element](https://github.com/VedVarshney/DSA/tree/main/3978-unique-middle-element/) | Easy |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/VedVarshney/DSA/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [4020-elevator-requests-i](https://github.com/VedVarshney/DSA/tree/main/4020-elevator-requests-i/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/VedVarshney/DSA/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Matrix
@@ -461,6 +462,7 @@ Leetcode questions solutions in java.
 | [3697-compute-decimal-representation](https://github.com/VedVarshney/DSA/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/VedVarshney/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3894-traffic-signal-color](https://github.com/VedVarshney/DSA/tree/main/3894-traffic-signal-color/) | Easy |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/VedVarshney/DSA/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/VedVarshney/DSA/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
