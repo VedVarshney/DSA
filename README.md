@@ -213,6 +213,7 @@ Leetcode questions solutions in java.
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1816-truncate-sentence](https://github.com/VedVarshney/DSA/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VedVarshney/DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/VedVarshney/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/VedVarshney/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VedVarshney/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VedVarshney/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -326,6 +327,7 @@ Leetcode questions solutions in java.
 | [0657-robot-return-to-origin](https://github.com/VedVarshney/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/VedVarshney/DSA/tree/main/0682-baseball-game/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/VedVarshney/DSA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/VedVarshney/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/VedVarshney/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/VedVarshney/DSA/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VedVarshney/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -356,6 +358,7 @@ Leetcode questions solutions in java.
 | [0234-palindrome-linked-list](https://github.com/VedVarshney/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/VedVarshney/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/VedVarshney/DSA/tree/main/0342-power-of-four/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/VedVarshney/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/VedVarshney/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Stack
@@ -435,6 +438,7 @@ Leetcode questions solutions in java.
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VedVarshney/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VedVarshney/DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/VedVarshney/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/VedVarshney/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedVarshney/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/VedVarshney/DSA/tree/main/2235-add-two-integers/) | Easy |
@@ -623,6 +627,7 @@ Leetcode questions solutions in java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/VedVarshney/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/VedVarshney/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
