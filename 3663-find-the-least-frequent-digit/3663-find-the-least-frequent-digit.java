@@ -1,22 +1,20 @@
 class Solution {
     public int getLeastFrequentDigit(int n) {
-    int[] frr=new int[10];
-    int rm;
+    int[] frr = new int[10];   
     while(n>0){
-        rm=n%10;
+        int rm=n%10;
         frr[rm]++;
         n/=10;
-    }
+    } 
     int mn=Integer.MAX_VALUE;
     for(int i=0; i<10; i++){
-    if(frr[i]>0 && frr[i]<mn)
-    mn=frr[i];
+        if(frr[i]!=0)
+        mn=Math.min(mn,frr[i]);
     }
     for(int i=0; i<10; i++){
-    if(frr[i]==mn)
-    return i;
+        if(mn==frr[i]) return i;
     }
-    return -1;
+    return 0;
     }
 }
 
