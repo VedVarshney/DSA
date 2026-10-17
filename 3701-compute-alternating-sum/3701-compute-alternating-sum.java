@@ -1,13 +1,11 @@
 class Solution {
     public int alternatingSum(int[] arr) {
-    int s=0;
+    int ev=0,odd=0;
     for(int i=0; i<arr.length; i++){
-        if(i%2==0)
-        s+=arr[i];
-        else
-        s-=arr[i];
-    }  
-    return s;
+        if(i%2==0) ev+=arr[i];
+        else odd+=arr[i];
+    }    
+    return ev-odd;
     }
 }
 
