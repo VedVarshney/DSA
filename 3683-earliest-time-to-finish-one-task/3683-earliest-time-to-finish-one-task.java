@@ -1,15 +1,14 @@
 class Solution {
     public int earliestTime(int[][] arr) {
-    int n =arr.length;
-    int ans=Integer.MAX_VALUE;
-    for(int i=0; i<n; i++){
+    int mn=Integer.MAX_VALUE;
+    for(int i=0; i<arr.length; i++){
         int s=0;
-        for(int j=0; j<2; j++){
+        for(int j=0; j<arr[0].length; j++){
         s+=arr[i][j];
         }
-        ans=Math.min(ans,s);
+        mn=Math.min(mn,s);
     }    
-    return ans;
+    return mn;
     }
 }
 
