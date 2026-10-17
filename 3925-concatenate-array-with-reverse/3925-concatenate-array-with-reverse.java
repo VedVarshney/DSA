@@ -1,13 +1,13 @@
 class Solution {
     public int[] concatWithReverse(int[] arr) {
     int n=arr.length;
+    int j=0;
     int[] ans = new int[2*n];
     for(int i=0; i<n; i++){
-        ans[i]=arr[i];
-    }   
-    int j=n-1;
-    for(int i=n; i<ans.length; i++){
-        ans[i]=arr[j--];
+        ans[j++]=arr[i];
+    }  
+    for(int i=n-1; i>=0; i--){
+        ans[j++]=arr[i];
     }
     return ans;
     }
