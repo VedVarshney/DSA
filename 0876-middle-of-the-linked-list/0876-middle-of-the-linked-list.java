@@ -1,15 +1,19 @@
 class Solution {
     public ListNode middleNode(ListNode head) {
-    ListNode x=head;
-    int n=0;
-    while(x!=null){
-        x=x.next;
-        n++;
-    }    
-    x=head;
-    for(int i=0; i<n/2; i++){
-    x=x.next;
+    ListNode temp=head;
+    int len=0;
+    while(temp!=null){
+        temp=temp.next;
+        len++;
+    } 
+    temp=head;  
+    for(int i=0; i<len/2; i++){
+        temp=temp.next;
     }
-    return x;
+    return temp;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
