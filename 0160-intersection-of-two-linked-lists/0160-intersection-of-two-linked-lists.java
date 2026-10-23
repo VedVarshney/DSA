@@ -1,29 +1,35 @@
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-    ListNode A=headA;
-    ListNode B=headB;   
-    int a=0,b=0;
-    while(A!=null){
-        A=A.next;
-        a++;
+    ListNode a=headA;
+    ListNode b=headB;
+    int l1=0,l2=0;
+    while(a!=null){
+        a=a.next;
+        l1++;
+    }    
+    while(b!=null){
+        b=b.next;
+        l2++;
     } 
-    while(B!=null){
-        B=B.next;
-        b++;
+    a=headA;
+    b=headB;
+    if(l2>l1){
+    for(int i=0; i<l2-l1; i++){
+        b=b.next;
     }
-    A=headA;
-    B=headB;
-    if(a>b){
-    for(int i=0; i<a-b; i++)
-        A=A.next;
     }else{
-    for(int i=0; i<b-a; i++)
-        B=B.next;
+    for(int i=0; i<l1-l2; i++){
+        a=a.next;
     }
-    while(A!=B){
-        A=A.next;
-        B=B.next;
     }
-    return A;
+    while(a!=b){
+        a=a.next;
+        b=b.next;
+    }
+    return a;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
