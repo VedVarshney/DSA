@@ -1,20 +1,26 @@
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
-    if(head.next==null)
-    return head;
-    ListNode fast=head;
-    for(int i=0; i<k-1; i++){
-        fast=fast.next;
+    int len=0;
+    ListNode temp=head;
+    while(temp!=null){
+        temp=temp.next;
+        len++;
     }    
-    ListNode f=fast;
-    ListNode slow=head;
-    while(fast.next!=null){
-        slow=slow.next;
-        fast=fast.next;
+    temp=head;
+    for(int i=0; i<k-1; i++){
+       temp=temp.next;
     }
-    int t=f.val;
-    f.val=slow.val;
-    slow.val=t;
+    ListNode x=head;
+    for(int i=0; i<len-k; i++){
+       x=x.next;
+    }
+    int y=temp.val;
+    temp.val=x.val;
+    x.val=y;
     return head;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
