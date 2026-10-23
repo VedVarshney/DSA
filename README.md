@@ -791,6 +791,7 @@ Leetcode questions solutions in java.
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/VedVarshney/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/VedVarshney/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
