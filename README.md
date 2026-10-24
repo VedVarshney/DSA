@@ -17,6 +17,7 @@ Leetcode questions solutions in java.
 | [0234-palindrome-linked-list](https://github.com/VedVarshney/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/VedVarshney/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VedVarshney/DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VedVarshney/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/VedVarshney/DSA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
@@ -435,6 +436,7 @@ Leetcode questions solutions in java.
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VedVarshney/DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0877-stone-game](https://github.com/VedVarshney/DSA/tree/main/0877-stone-game/) | Medium |
 | [1154-day-of-the-year](https://github.com/VedVarshney/DSA/tree/main/1154-day-of-the-year/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VedVarshney/DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VedVarshney/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VedVarshney/DSA/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/VedVarshney/DSA/tree/main/1486-xor-operation-in-an-array/) | Easy |
